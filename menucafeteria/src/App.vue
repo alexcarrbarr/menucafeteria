@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+    <p>Hecho por ACARRASCO (C)</p>
   </div>
 </template>
 
