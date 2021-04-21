@@ -5,7 +5,7 @@
       lead="Ejemplo de CRUD para cafetería"
     >
       <p>Para más información, vea el menú</p>
-      <b-button variant="primary">Ver Menú</b-button>
+      <b-button variant="primary" to="/menu">Ver Menú</b-button>
     </b-jumbotron>
   </div>
 </template>
