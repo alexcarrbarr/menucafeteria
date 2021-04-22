@@ -4,7 +4,7 @@
       header="Cafetería Perrote"
       lead="Ejemplo de CRUD para cafetería"
     >
-      <p>Para más información, vea el menú</p>
+      <p>Para más información, revise nuestro menú.</p>
       <b-button variant="primary" to="/menu">Ver Menú</b-button>
     </b-jumbotron>
   </div>

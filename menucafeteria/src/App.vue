@@ -15,7 +15,7 @@
       <br />
       <router-view />
       <hr />
-      <p>Hecho por ACARRASCO (C)</p>
+      <p>Hecho por ACARRASCO &#169;</p>
     </b-container>
   </div>
 </template>
